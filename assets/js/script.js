@@ -32,7 +32,7 @@ function create_word_cloud(num_of_words) {
 //
 function display_word_cloud() {
   //place every word in its paragraph and append them to wrapper
-  for(el of create_word_cloud(45)) {
+  for(el of create_word_cloud(50)) {
     const p = document.createElement("p");
     const t = document.createTextNode(el[0]);
     p.appendChild(t);
