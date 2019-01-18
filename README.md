@@ -16,6 +16,6 @@ A simple word cloud generator written in JavaScript.
 * No external libraries were used.
 
 ## Author
-Ziva Fajfar
+* Ziva Fajfar
 
 
