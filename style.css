@@ -1,0 +1,69 @@
+.wrapper {
+  max-width: 800px;
+  height: auto;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.item {
+  padding: 6px;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  opacity: 0;
+  display: inline-block;
+  margin-top: -1.5pc;
+}
+.size1 {
+  font-size: 20px;
+  color: #ff5f01;
+  transition: opacity 1s linear;
+}
+.size2 {
+  font-size: 30px;
+  color: #1d82ff;
+  transition: opacity 1s 0.2s linear;
+}
+.size3 {
+  font-size: 40px;
+  color: #10ff4f;
+  transition: opacity 1s 0.4s linear;
+}
+.size4 {
+  font-size: 50px;
+  color: #ffa500;
+  transition: opacity 1s 0.6s linear;
+}
+.size5 {
+  font-size: 60px;
+  color: #6a2fa4;
+  transition: opacity 1s 0.8s linear;
+}
+.size6 {
+  font-size: 70px;
+  color: #ff178b;
+  transition: opacity 1s 1s linear;
+}
+.size7 {
+  font-size: 80px;
+  color: #0120ff;
+  transition: opacity 1s 1s linear;
+}
+.size8 {
+  font-size: 90px;
+  color: #10ff4f;
+  transition: opacity 1s 1s linear;
+}
+.size9 {
+  font-size: 100px;
+  color: #e1a263;
+  transition: opacity 1s 1s linear;
+}
+.size10 {
+  font-size: 110px;
+  color: #01e5e5;
+  transition: opacity 1s 1s linear;
+}
+
+.size_transition {
+  opacity: 1;
+}
