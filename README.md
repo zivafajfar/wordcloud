@@ -6,7 +6,7 @@ A simple word cloud generator written in JavaScript.
 
 ## Getting Started
 
-1. Replace the text in text.js with your own text.
+1. Replace the text between backticks in text.js with your own text.
 2. Change the number of words you want to consider for your cloud in the script.js file on line 35 (the default value is 50).
 3. You can change colors, transitions and other style properties in style.css file.
 
